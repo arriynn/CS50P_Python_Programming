@@ -1,3 +1,3 @@
-# Python_Programming
+# CS50P_Python_Programming
 
-Created a Git repository for Python programming
+CS50's Introduction to programming with Python
